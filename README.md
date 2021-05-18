@@ -5,3 +5,4 @@ Para enseñar temas de drupal
 - Instalación de Drupal
 - Configuración inicial
 - Instalación de Tema Grafico
+- Instalación de modulos
